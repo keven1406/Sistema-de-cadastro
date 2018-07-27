@@ -1,0 +1,23 @@
+{
+  "name": "sistema-de-cadastro",
+  "version": "0.0.1",
+  "description": "Um sistema de cadastro de usuario e senha",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cadastros",
+    "node",
+    "mongoose",
+    "javascript",
+    "usuario",
+    "e",
+    "senha"
+  ],
+  "author": "Keven",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^5.2.5"
+  }
+}
